@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Edwin Mahendra</h1>
+<h1>
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Edwin Maehendra
+</h1>
 <h3 align="center">Ungraduated informatics student from Duta Wacana Christian University. I am interested in Android mobile and Web development.</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
