@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+  <img src="https://miro.medium.com/max/1400/1*Urc28sbnORGOW5oyohQ06g.gif"/>
 </div>
  
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=richardlois8&style=square&color=161B22" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=edwinmahendra&style=square&color=161B22" alt=""/>
 </div>
 
 <h1>
