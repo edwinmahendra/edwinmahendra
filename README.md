@@ -16,7 +16,7 @@
    </p>
   
 
-<h3>Ungraduated informatics student from Duta Wacana Christian University. I am interested in Android mobile and Web development.</h3>
+Ungraduated informatics student from Duta Wacana Christian University. I am interested in Android mobile and Web development.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -26,13 +26,13 @@
 
 - 📫 How to reach me **edwinmahen@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👨‍💻 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/edwin-mahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-mahendra" height="30" width="40" /></a>
 <a href="https://instagram.com/edwinmahendra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwinmahendra_" height="30" width="40" /></a>
 </p>
 
-### Github Statistic
+### 📊 Github Statistic
 <p align="left">
 <a href="https://github.com/https://github.com/edwinmahendra">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -41,7 +41,7 @@
 </a>
 </p>
 
-### Profile Views
+### 🧰 Profile Views
 <div id="views">
   <img src="https://komarev.com/ghpvc/?username=edwinmahendra&style=square&color=161B22" alt=""/>
 </div>
