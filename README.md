@@ -4,7 +4,7 @@
   I'm Edwin Maehendra
 </h1>
 <h3 align="center">Ungraduated informatics student from Duta Wacana Christian University. I am interested in Android mobile and Web development.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinmahendra&label=Profile%20views&color=0e75b6&" alt="edwinmahendra" /> </p>
 
