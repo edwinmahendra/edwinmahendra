@@ -6,6 +6,7 @@
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Edwin
+  <img src="https://komarev.com/ghpvc/?username=richardlois8&style=flat-square&color=blue" alt=""/>
 </h1>
 
 <p align="center">
@@ -13,7 +14,6 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/edwinmahendra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/edwinmahendra?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/edwinmahendra?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-         <img src="https://komarev.com/ghpvc/?username=richardlois8&style=flat-square&color=blue" alt=""/>
    </p>
   
 
