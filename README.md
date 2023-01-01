@@ -34,4 +34,4 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinmahendra&" alt="edwinmahendra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinmahendra&theme=algolia" alt="edwinmahendra" /></p>
