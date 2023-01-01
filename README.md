@@ -42,6 +42,6 @@
 </p>
 
 ### Profile Views
-<div id="views" align="center">
+<div id="views">
   <img src="https://komarev.com/ghpvc/?username=edwinmahendra&style=square&color=161B22" alt=""/>
 </div>
