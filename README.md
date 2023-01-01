@@ -3,7 +3,7 @@
 </div>
  
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=richardlois8&style=square&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=richardlois8&style=square&color=#161B22" alt=""/>
 </div>
 
 <h1>
