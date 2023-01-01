@@ -1,13 +1,16 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=richardlois8&style=flat-square&color=red" alt=""/>
+
+<h1>
+ </h1>
+ 
+<img align="center" src="https://komarev.com/ghpvc/?username=richardlois8&style=flat-square&color=red" alt=""/>
 
 <h1>
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Edwin
-  
 </h1>
 
 <p align="center">
