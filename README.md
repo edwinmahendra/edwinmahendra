@@ -8,7 +8,7 @@
   I'm Edwin
 </h1>
 
-<p align="left">
+<p align="center">
       <a href="https://github.com/edwinmahendra?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/edwinmahendra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/edwinmahendra?tab=repositories&sort=stargazers">
@@ -16,7 +16,7 @@
    </p>
   
 
-<h3 align="center">Ungraduated informatics student from Duta Wacana Christian University. I am interested in Android mobile and Web development.</h3>
+<h3>Ungraduated informatics student from Duta Wacana Christian University. I am interested in Android mobile and Web development.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
