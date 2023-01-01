@@ -2,10 +2,6 @@
   <img src="https://miro.medium.com/max/1400/1*Urc28sbnORGOW5oyohQ06g.gif"/>
 </div>
  
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=edwinmahendra&style=square&color=161B22" alt=""/>
-</div>
-
 <h1>
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -44,3 +40,8 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinmahendra&theme=algolia" alt="edwinmahendra" />
 </a>
 </p>
+
+### Profile Views
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=edwinmahendra&style=square&color=161B22" alt=""/>
+</div>
