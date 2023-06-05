@@ -41,12 +41,6 @@
 </p>
 
 <div align="center">
-  <h3>⚡ Fun fact:</h3>
-</div>
-
-- I can play the guitar 🎸
-
-<div align="center">
   <h3>📊 My Github Statistics:</h3>
 </div>
  
