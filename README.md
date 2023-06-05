@@ -15,23 +15,23 @@
     </a>
 </div>
 
-<div align="center">
+<div align="left">
   <strong>Exploring new technologies, building small projects, and iterating on ideas is what I'm passionate about. I'm an undergraduate informatics student from Duta Wacana Christian University, specializing in Android Mobile and Web development.</strong>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>🔭 I’m currently focusing on... </h3>
 </div>
  
 - Kotlin and Machine Learning
 
-<div align="center">
+<div align="left">
   <h3>💼📫 How to reach me:</h3>
 </div>
  
 - 📧 Email: edwinmahen@gmail.com
 
-<div align="center">
+<div align="left">
   <h3>🔗 Connect with me:</h3>
 </div>
  
