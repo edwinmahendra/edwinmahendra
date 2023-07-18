@@ -51,7 +51,3 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinmahendra&theme=algolia" alt="edwinmahendra" />
 </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=edwinmahendra&style=square&color=161B22" alt=""/>
-</div>
