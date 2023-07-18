@@ -1,35 +1,31 @@
-# Hi there, I'm Edwin 👋
+<div align="center">
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+</div>
+
+# Hi there, I'm Edwin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ![Github followers](https://img.shields.io/github/followers/edwinmahendra?style=social)
 ![Github stars](https://img.shields.io/github/stars/edwinmahendra?style=social)
 
----
+I'm an **undergraduate informatics student from Duta Wacana Christian University**, exploring new technologies, building small projects, and iterating on ideas.
 
-I'm an undergraduate informatics student from Duta Wacana Christian University, exploring new technologies, building small projects, and iterating on ideas. I specialize in Android Mobile and Web development.
+## 🔭 I’m currently focusing on 
 
----
+Mobile Development with Kotlin and Machine Learning
 
-## 🔭 I’m currently focusing on Mobile Development with Kotlin and Machine Learning
+## 🧠 I'm learning...
 
-![Mobile Dev Image](https://miro.medium.com/max/2000/1*3w6qKJlFy9EvMYSa1VuS0Q.gif)
-
-## 🧠 I'm learning 
-
-- Data Structures and Algorithms
 - Deep Learning
+- Mobile Development with Flutter
 
----
-
-### 📧 Contact Me:
+## 📧 Contact Me:
 
 - Email: edwinmahen@gmail.com
 
-### 🔗 Connect with Me:
+## 🔗 Connect with Me:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://linkedin.com/in/edwin-mahendra)
 [![Instagram](https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&colorB=555)](https://instagram.com/edwinmahendra_)
-
----
 
 ### 📊 Github Statistics:
 
@@ -44,7 +40,6 @@ I'm an undergraduate informatics student from Duta Wacana Christian University, 
 ## 💻 Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
