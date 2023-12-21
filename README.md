@@ -11,12 +11,12 @@ I'm an **undergraduate informatics student from Duta Wacana Christian University
 
 ## 🔭 I’m currently focusing on 
 
-Mobile Development with Kotlin and Machine Learning
+Mobile Development and Web Development using ReactJS
 
 ## 🧠 I'm learning...
 
-- Deep Learning
-- Mobile Development with Flutter
+- Deep Learning (Image Classification)
+- Mobile Development
 
 ## 📧 Contact Me:
 
@@ -27,7 +27,7 @@ Mobile Development with Kotlin and Machine Learning
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=555&color=blue)](https://linkedin.com/in/edwin-mahendra)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/edwinmahendra_)
 
-### 📊 Github Statistics:
+## 📊 Github Statistics:
 
 <p align="center">
 <a href="https://github.com/https://github.com/edwinmahendra">
