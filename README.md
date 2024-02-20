@@ -9,15 +9,6 @@
 
 I'm an **undergraduate informatics student from Duta Wacana Christian University**, exploring new technologies, building small projects, and iterating on ideas.
 
-## 🔭 I’m currently focusing on 
-
-Mobile Development and Web Development using ReactJS
-
-## 🧠 I'm learning...
-
-- Deep Learning (Image Classification)
-- Mobile Development
-
 ## 📧 Contact Me:
 
 - Email: edwinmahen@gmail.com
