@@ -7,11 +7,15 @@
 ![Github followers](https://img.shields.io/github/followers/edwinmahendra?style=social)
 ![Github stars](https://img.shields.io/github/stars/edwinmahendra?style=social)
 
-I'm an **undergraduate informatics student from Duta Wacana Christian University**, exploring new technologies, building small projects, and iterating on ideas.
+**Fresh Graduate**, exploring new technologies, building small projects, and iterating on ideas.
 
 ## 📧 Contact Me:
 
-- Email: edwinmahen@gmail.com
+<p align="center">
+  <a href="mailto:edwinmahen@gmail.com">
+    <img src="https://img.shields.io/badge/-Email_Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+</p>
 
 ## 🔗 Connect with Me:
 
