@@ -9,20 +9,26 @@
 
 **Fresh Graduate**, exploring new technologies, building small projects, and iterating on ideas.
 
-## 📧 Contact Me:
+## 📧 Contact Me
 
-<p align="center">
+<p>
   <a href="mailto:edwinmahen@gmail.com">
     <img src="https://img.shields.io/badge/-Email_Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
 </p>
 
-## 🔗 Connect with Me:
+## 🔗 Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=555&color=blue)](https://linkedin.com/in/edwin-mahendra)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/edwinmahendra_)
+<p>
+  <a href="https://linkedin.com/in/edwin-mahendra">
+    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/edwinmahendra_">
+    <img src="https://img.shields.io/badge/-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-## 📊 Github Statistics:
+## 📊 Github Statistics
 
 <p align="center">
 <a href="https://github.com/https://github.com/edwinmahendra">
@@ -32,10 +38,12 @@
 </a>
 </p>
 
-## 💻 Languages and Tools:
+## 💻 Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
